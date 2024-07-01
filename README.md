@@ -140,7 +140,7 @@ for encontrando, mas sempre seguindo uma lógica.
 Na imagem a seguir, é descrito o plano de trabalho detalhado
 que seguiremos.
 
-![image](https://drive.google.com/file/d/1OtVYVxk7zs1P8LWtiMnnokQYbPUfv2kQ/view)
+![image](./pt-hito1-p2-upskilling.png)
 
 ### ⬜ Passo 0. Preparação
 
